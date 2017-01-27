@@ -1,0 +1,1 @@
+cmd_/home/vipin/workspace/epfl_dyract/driver/fpga.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vipin/workspace/epfl_dyract/driver/fpga.ko /home/vipin/workspace/epfl_dyract/driver/fpga.o /home/vipin/workspace/epfl_dyract/driver/fpga.mod.o

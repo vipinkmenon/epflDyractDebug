@@ -1,0 +1,7 @@
+/* For installing*/
+sudo make setup
+make
+sudo make install
+
+/* For Uninstalling*/
+sudo make uninstall
